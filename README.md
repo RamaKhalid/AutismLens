@@ -13,8 +13,8 @@ The following table summarizes the performance of the ConvNext model on the wast
 | Model                     | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |---------------------------|--------------|---------------|------------|--------------|
 | ConvNext   |          92%    |         92%      |      92%      |       92%       |
-| Vision Transformer (ViT)   |        ?   |         ?     |      ?      |      ?       |
+| Vision Transformer (ViT)   |        88%   |         88%     |      88%     |      88%       |
 | DenseNet121                 |            ?  |        ?       |         ?   |?|
-| EfficientNet_b0             |          ?   |     ?          |         ?   |          ?   |
+| EfficientNet_b0             |          88%   |     88%           |         88%    |          88%   |
 | ResNet50                    |           ?  |          ?    |?     |?      |
 
