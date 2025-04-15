@@ -14,7 +14,7 @@ The following table summarizes the performance of the ConvNext model on the wast
 |---------------------------|--------------|---------------|------------|--------------|
 | ConvNext   |          92%    |         92%      |      92%      |       92%       |
 | Vision Transformer (ViT)   |        88%   |         88%     |      88%     |      88%       |
-| DenseNet121                 |            ?  |        ?       |         ?   |?|
-| EfficientNet_b0             |          88%   |     88%           |         88%    |          88%   |
+| DenseNet121                 |          87%   |     87%           |         87%    |          87% 
+| EfficientNet_b0             |          87%   |     87%           |         87%    |          87%   |
 | ResNet50                    |           ?  |          ?    |?     |?      |
 
