@@ -11,7 +11,7 @@
 - Provide a simple and interpretable tool for researchers and clinicians.
 
 ---
-## 🚀 How It Works
+## 🧩 How It Works
 
 1. Upload a facial image of a child.
 2. The model predicts whether the child is likely to be on the autism spectrum or not.
@@ -50,7 +50,7 @@
 
 ---
 
-## 💡 Key Technologies
+## 💡 Key Technologies (Tools)
 
 
 
