@@ -4,6 +4,23 @@
 
 ---
 
+## 🎯 Goals
+
+- Early, explainable detection of ASD through facial image recognition.
+- Improve diagnostic accuracy and speed using advanced AI.
+- Provide a simple and interpretable tool for researchers and clinicians.
+
+---
+## 🚀 How It Works
+
+1. Upload a facial image of a child.
+2. The model predicts whether the child is likely to be on the autism spectrum or not.
+3. Grad-CAM highlights key facial features used in the prediction for better interpretability.
+4. Results are displayed on the web interface.
+
+---
+
+
 ## 📂 Datasets Used
 
 1. **Autism vs. Healthy Children**  
@@ -39,19 +56,6 @@
 
 ---
 
-## 🚀 How It Works
 
-1. Upload a facial image of a child.
-2. The model predicts whether the child is likely to be on the autism spectrum or not.
-3. Grad-CAM highlights key facial features used in the prediction for better interpretability.
-4. Results are displayed on the web interface.
 
----
 
-## 🎯 Goals
-
-- Early, explainable detection of ASD through facial image recognition.
-- Improve diagnostic accuracy and speed using advanced AI.
-- Provide a simple and interpretable tool for researchers and clinicians.
-
----
