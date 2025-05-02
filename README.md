@@ -44,7 +44,7 @@
 |----------------------|--------------|----------------|-------------|----------------|
 | **ConvNeXt**              | 92%          | 92%            | 92%         | 92%            |
 | Vision Transformer (ViT) | 88%          | 88%            | 88%         | 88%            |
-| DenseNet121              | 87%          | 86%            | 87%         | 86%            |
+| DenseNet121              | 87%          | 87%            | 87%         | 87%            |
 | EfficientNet_b0          | 87%          | 87%            | 87%         | 87%            |
 | ResNet50                 | 89%          | 89%            | 89%         | 89%            |
 
@@ -52,6 +52,14 @@
 
 ## 💡 Key Technologies (Tools)
 
+- **Google Colab** – for training and experimenting with the model in a cloud-based environment  
+- **PyTorch** – the deep learning framework used to build and train the models  
+- **Grad-CAM** – for visual explanations to enhance model interpretability (XAI)  
+- **FastAPI** – to serve the model through a lightweight and efficient web API  
+- **GitHub** – for version control, collaboration, and sharing the project source code  
+- **Firebase** – used for managing the database and user authentication
+- **Cloudinary** – used to store images, with URLs saved in Firebase   
+- **Visual Studio Code** – used for website development  
 
 
 ---
