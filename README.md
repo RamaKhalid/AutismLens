@@ -14,7 +14,7 @@
 ## 🧩 How It Works
 
 1. Upload a facial image of a child.
-2. The model predicts whether the child is likely to be on the autism spectrum or not.
+2. The model analyzes the image and detects whether the child has autism.
 3. Grad-CAM highlights key facial features used in the prediction for better interpretability.
 4. Results are displayed on the web interface.
 
