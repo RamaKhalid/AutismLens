@@ -38,6 +38,13 @@
    - Cerebral Palsy Disorder
 ---
 
+## 📂 Model Weights
+
+The pre-trained model weights for **AutismLens** can be accessed and downloaded from the following link:
+
+📥 [Download Model Weights](https://drive.google.com/drive/folders/1xmJkqmGAzoQ5ht7p5mWyXEBKwUGTYfjW?usp=drive_link)
+
+---
 ## 📊 Model Performance
 
 | Model                 | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
