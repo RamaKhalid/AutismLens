@@ -71,7 +71,7 @@ The pre-trained model weights for **AutismLens** can be accessed and downloaded 
 
 ---
 
-## FastAPI Integration Steps
+## ⚙️ FastAPI Integration Steps
 
 1. upload the [code] project folder into --> C:\Users\*your account name*
 2. open vs code and then from file open [autismlens-project] folder that is inside [code] folder
